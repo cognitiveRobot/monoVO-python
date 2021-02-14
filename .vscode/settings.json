@@ -1,0 +1,10 @@
+{
+    "python.pythonPath": "/home/zulfi/anaconda3/envs/dt2/bin/python",
+    // "python.linting.enabled": true,
+    "python.linting.pylintEnabled": false,
+    "editor.formatOnSave": true,
+    "python.formatting.provider": "yapf",
+    "[python]": {
+        "editor.formatOnSave": true
+    },
+}
